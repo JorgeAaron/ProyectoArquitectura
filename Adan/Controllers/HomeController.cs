@@ -12,7 +12,10 @@ namespace Adan.Controllers
         {
             return View();
         }
-
+        public ActionResult Tienda()
+        {
+            return View();
+        }
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";

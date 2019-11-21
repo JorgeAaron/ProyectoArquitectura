@@ -193,6 +193,7 @@
     <Content Include="Content\images\t-post2.png" />
     <Content Include="Content\images\t-post3.png" />
     <Content Include="Content\images\tienda.jpg" />
+    <Content Include="Content\images\tienda_camisas.jpg" />
     <Content Include="Content\images\travel.png" />
     <Content Include="Content\images\video-cover1.jpg" />
     <Content Include="Content\images\video-cover2.jpg" />
@@ -249,6 +250,7 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\Tienda.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
