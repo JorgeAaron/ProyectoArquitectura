@@ -29,5 +29,12 @@ namespace Adan.Controllers
 
             return View();
         }
+
+        public ActionResult Otros()
+        {
+            ViewBag.Message = "Your kayak page";
+
+            return View();
+        }
     }
 }
